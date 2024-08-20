@@ -34,7 +34,6 @@ export const CartProvider = ({ children }) => {
     };
     
     const checkOut = () => {
-        console.log('omg its fdsdlkas;d');
         setCart([]);
     };
 
